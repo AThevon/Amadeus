@@ -1,0 +1,20 @@
+.btn {
+    display: inline-block;
+    padding: 0.5rem 2rem;
+    border: none;
+    border-radius: .8rem;
+    background-color: transparent;
+    color: #232323;
+    font-size: 1.8rem;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.2s ease-out;
+}
+
+.btn:hover {
+    scale: 1.1;
+}

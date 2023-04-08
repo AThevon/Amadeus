@@ -1,0 +1,13 @@
+
+.main_logo {
+    position: absolute;
+    height: 16rem;
+    width: 12rem;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.main_logo > * {
+    object-fit: contain;
+}
