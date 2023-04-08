@@ -1,3 +1,26 @@
+# First Next.js project for a french music band !
+
+<br>
+
+Features that will be in this project :
+
+- Front-end :
+  - Pages-navigation system
+  - Artist and mixtape sections
+
+<br>
+
+- Back-end :
+  - MongoDB is used for storing information about artists and mixtape
+  - CRUD Api
+  - Fetching with Axios
+
+
+<br>
+<br>
+
+# This project is currently in development !
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
