@@ -5,13 +5,14 @@
 Features that will be in this project :
 
 - Front-end :
+  - Stylize with Tailwind CSS
   - Pages-navigation system
   - Artist and mixtape sections
 
 <br>
 
 - Back-end :
-  - MongoDB is used for storing information about artists and mixtape
+  - MongoDB is used for storing informations about artists and mixtapes
   - CRUD Api
   - Fetching with Axios
 
